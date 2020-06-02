@@ -1,5 +1,6 @@
 ---
-title: 'post2'
+title: "post2"
 layout: articles.hbs
 ---
+
 ## This is post2...
